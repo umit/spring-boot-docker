@@ -1,4 +1,4 @@
-FROM java:8
+FROM dockerfile/java:oracle-java8
 VOLUME /tmp
 EXPOSE 8080
 ADD spring-boot-docker-*.jar spring-boot-docker.jar
