@@ -4,7 +4,7 @@
 
 	<groupId>com.umitunal.docker</groupId>
 	<artifactId>spring-boot-docker</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<packaging>jar</packaging>
 
 	<name>spring-boot-docker</name>
@@ -21,7 +21,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/umitunal/spring-boot-docker.git/</connection>
 		<developerConnection>scm:git:git@github.com:umitunal/spring-boot-docker.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>0.0.4</tag>
   </scm>
 
 	<properties>
